@@ -1,7 +1,3 @@
-Here’s a professional **README.md** for your GitHub project — written to make it impressive, clear, and beginner-friendly while showcasing the technical depth of your work.
-
----
-
 # 🧪 Advanced Material Analysis System (with Gemini AI)
 
 An interactive **Python-based material analysis assistant** that performs **chemical composition exploration, oxide correlation, classification, and AI-powered insights** using **Google Gemini AI**.
